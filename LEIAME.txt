@@ -1,0 +1,1 @@
+A api para o funcionamento dessa aplicação está em https://github.com/bruversFelipe/ApiNetCore
